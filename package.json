@@ -1,0 +1,13 @@
+{
+  "name": "get-combinations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "obraia",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
